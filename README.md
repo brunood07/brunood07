@@ -3,10 +3,8 @@
 
 - 🔭 I’m currently looking for working oportunities
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript and Python
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React, Nextjs, Nodejs, SQL and Python
 
-- 👯 I’m looking to collaborate on a project to learn more about JavaScript and Python
-
-- 🤔 I’m looking for help with HTML, CSS, JavaScript and Python
+- 👯 I’m looking to collaborate on a project to learn more about JavaScript, React, Nodejs and Python
 
 - 📫 How to reach me: brunood07@gmail.com
