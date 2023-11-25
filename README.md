@@ -1,5 +1,5 @@
 <h1 align="center">Hello, my name is Bruno Domingues</h1>
-<h3 align="center">REACT/NODE Developer</h3>
+<h3 align="center">JAVA/NODE Developer</h3>
 
 - 🔭 I’m currently looking for working oportunities
 
