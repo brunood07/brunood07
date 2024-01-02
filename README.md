@@ -1,7 +1,7 @@
 <h1 align="center">Hello, my name is Bruno Domingues</h1>
 <h3 align="center">JAVA/NODE Developer</h3>
 
-- 🔭 I’m currently looking for working oportunities
+Hello, my name is Bruno, i´m currently working as a Backend Developer with Java Springboot and Nodejs
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
